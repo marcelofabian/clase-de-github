@@ -1,10 +1,6 @@
 clase-de-github
 ===============
+hola mati soy fabian 
+aca estoy probando un poco el uso de git desde
+la consola de git
 
-Este es un ejemplo github
-
-
-estoy en el branch llamado mejorandola
-borrando algo que estaba
-y agregando estas dos lineas
-oo
